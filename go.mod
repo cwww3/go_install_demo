@@ -1,3 +1,3 @@
-module github.com/cwww3/go_install_demo/v2
+module github.com/cwww3/go_install_demo
 
 go 1.16
