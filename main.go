@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello go install v1.0.2")
+	fmt.Println("Hello go install v2.0.0")
 }
